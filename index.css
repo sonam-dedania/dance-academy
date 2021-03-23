@@ -1,0 +1,42 @@
+@font-face{
+    font-family: Josefin sans;
+    src: url(Fonts/JosefinSans-VariableFont_wght.ttf);
+  }
+  body
+  {
+      font-family: Josefin sans;
+  }
+.header
+{
+background-image: url(Images/header-img.jpg);
+color: #ffffff;
+padding: 300px;
+text-align: center;    
+}
+.header h1{
+    font-size: 120px;
+}
+.header h3
+{
+    font-size: 40px;
+}
+.why-choose-school{
+background-color: #000000;
+padding: 60px;
+}
+.yel
+{
+    color: #c6e2ba;
+}
+.white
+{
+    color: #ffffff;
+}
+.why-choose-school h1{
+    color: #c6e2ba;
+    text-align: center;
+    font-size: 60px;
+}
+.why-choose-school h3{
+    color: #ffffff;
+}
