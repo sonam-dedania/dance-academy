@@ -21,7 +21,7 @@ text-align: center;
     font-size: 40px;
 }
 .why-choose-school{
-background-color: #000000;
+background-color: #232323;
 padding: 60px;
 }
 .yel
@@ -36,7 +36,31 @@ padding: 60px;
     color: #c6e2ba;
     text-align: center;
     font-size: 60px;
+    margin-bottom: 60px;
 }
-.why-choose-school h3{
+.why-choose-school h2{
     color: #ffffff;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.why-choose-school i
+{
+    font-size: 90px;
+    color: #c6e2ba;
+}
+.center
+{
+    text-align: center;
+}
+.dance-style
+{
+    background-color: #c6e2ba;
+    padding: 50px;
+}
+.dance-style h1
+{
+    color: #232323;
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 60px;
 }
